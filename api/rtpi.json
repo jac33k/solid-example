@@ -1,0 +1,17 @@
+[
+  {
+    "start": "A",
+    "destination": "B",
+    "time": ["10:02", "10:02"]
+  },
+  {
+    "start": "B",
+    "destination": "C",
+    "time": ["10:18", "10:31"]
+  },
+  {
+    "start": "C",
+    "destination": "D",
+    "time": ["10:40", "10:40"]
+  }
+]

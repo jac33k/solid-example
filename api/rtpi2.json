@@ -1,0 +1,24 @@
+[
+  {
+    "start": "A",
+    "destination": "B",
+    "time": {
+      "departure": "10:17"
+    }
+  },
+  {
+    "start": "B",
+    "destination": "C",
+    "time": {
+      "arrival": "10:18",
+      "departure": "10:31"
+    }
+  },
+  {
+    "start": "C",
+    "destination": "D",
+    "time": {
+      "arrival": "10:40"
+    }
+  }
+]
